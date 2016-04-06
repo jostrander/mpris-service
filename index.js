@@ -1,4 +1,4 @@
-var DBus = require('dbus');
+var DBus = require('dbus-native');
 var events = require('events');
 var util = require('util');
 
